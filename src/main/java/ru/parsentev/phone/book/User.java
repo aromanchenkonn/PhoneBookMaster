@@ -1,10 +1,4 @@
 package ru.parsentev.phone.book;
-
-/**
- * TODO: comment
- * @author parsentev
- * @since 02.08.2015
- */
 public class User {
 	private int id;
 	private String name;
